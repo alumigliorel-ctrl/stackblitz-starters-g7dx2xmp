@@ -162,13 +162,13 @@ h1 {
   font-size: 1.5rem;
 }
   .multimedia {
-width: 800;
+width: 800px;
 background-color: antiquewhite;
 
-}
-.multimedia video{
-  width: 600;
-}
+}.multimedia video{
+  
+    width: 600px;
+  }
 
 /*estadios*/
 
@@ -202,9 +202,7 @@ border-collapse: collapse;
       width: 200px ;
     
     }
-    .video_mun{
-      width: 600px;
-    }
+    
     
           
   
