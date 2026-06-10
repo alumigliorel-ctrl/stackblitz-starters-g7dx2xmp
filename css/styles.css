@@ -172,15 +172,13 @@ background-color: antiquewhite;
 
 /*estadios*/
 
-#estadosunidos,#estadosunidos tr,#estadosunidos td,#estadosunidosth{ 
+#eeuu,#eeuu tr,#eeuu td,#eeuu{ 
 
 border: #772c2c 3px;
 border-collapse: collapse;
 }
-#estadosunidos img{
+#eeuu img{
 
-  width: ;
-
-
+  width: 200px ;
 
 }
