@@ -172,32 +172,32 @@ background-color: antiquewhite;
 
 /*estadios*/
 
-#eeuu,#eeuu tr,#eeuu td,#eeuu th{ 
+#estadosunidos,#estadosunidos tr,#estadosunidos td,#estadosunidos th{ 
 
-border: #772c2c 3px;
+border:solid #772c2c 3px;
 border-collapse: collapse;
 }
-#can img{
+#estadosunidos img{
 
   width: 200px ;
 
 }
-#can,#can tr,#can td,#can th{ 
+#canada,#canada tr,#canada td,#canada th{ 
 
-  border: #772c2c 3px;
+  border:solid #772c2c 3px;
   border-collapse: collapse;
   }
-  #can img{
+  #canada img{
   
     width: 200px ;
   
   }
-  #mx,#mx tr,#mx td,#mx th{ 
+  #mexico,#mexico tr,#mexico td,#mexico th{ 
 
-    border: #772c2c 3px;
+    border:solid #772c2c 3px;
     border-collapse: collapse;
     }
-    #mx img{
+    #mexico img{
     
       width: 200px ;
     
