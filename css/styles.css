@@ -166,19 +166,42 @@ width: 800;
 background-color: antiquewhite;
 
 }
-.multimedia audio{
+.multimedia video{
   width: 600;
 }
 
 /*estadios*/
 
-#eeuu,#eeuu tr,#eeuu td,#eeuu{ 
+#eeuu,#eeuu tr,#eeuu td,#eeuu th{ 
 
 border: #772c2c 3px;
 border-collapse: collapse;
 }
-#eeuu img{
+#can img{
 
   width: 200px ;
 
 }
+#can,#can tr,#can td,#can th{ 
+
+  border: #772c2c 3px;
+  border-collapse: collapse;
+  }
+  #can img{
+  
+    width: 200px ;
+  
+  }
+  #mx,#mx tr,#mx td,#mx th{ 
+
+    border: #772c2c 3px;
+    border-collapse: collapse;
+    }
+    #mx img{
+    
+      width: 200px ;
+    
+    }
+    
+          
+  
