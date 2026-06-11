@@ -202,7 +202,13 @@ border-collapse: collapse;
       width: 200px ;
     
     }
-    
+    #campeones,#campeones tr, #campeones td, #campeones th{
+      border: solid rgb(237, 100, 237) 3px;
+      border-collapse: collapse;
+    }
+    #campeones img{
+      width: 200px;
+    }
     
           
   
