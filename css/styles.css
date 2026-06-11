@@ -183,3 +183,24 @@ border-collapse: collapse;
 
 }
 
+#can,#can tr,#can td,#can {
+
+  border: #772c2c;
+  border-collapse: collapse;
+}
+#can img {
+ width: 200 px; 
+}
+
+#mex,#mex tr,#mex td,#mex {
+border: #772c2c;
+border-collapse:collapse ;
+
+}
+
+#mex img{
+
+width: 200px;
+}
+
+
