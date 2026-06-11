@@ -162,53 +162,24 @@ h1 {
   font-size: 1.5rem;
 }
   .multimedia {
-width: 800px;
+width: 800;
 background-color: antiquewhite;
 
-}.multimedia video{
-  
-    width: 600px;
-  }
+}
+.multimedia audio{
+  width: 600;
+}
 
 /*estadios*/
 
-#estadosunidos,#estadosunidos tr,#estadosunidos td,#estadosunidos th{ 
+#eeuu,#eeuu tr,#eeuu td,#eeuu{ 
 
-border:solid #772c2c 3px;
+border: #772c2c 3px;
 border-collapse: collapse;
 }
-#estadosunidos img{
+#eeuu img{
 
   width: 200px ;
 
 }
-#canada,#canada tr,#canada td,#canada th{ 
 
-  border:solid #772c2c 3px;
-  border-collapse: collapse;
-  }
-  #canada img{
-  
-    width: 200px ;
-  
-  }
-  #mexico,#mexico tr,#mexico td,#mexico th{ 
-
-    border:solid #772c2c 3px;
-    border-collapse: collapse;
-    }
-    #mexico img{
-    
-      width: 200px ;
-    
-    }
-    #campeones,#campeones tr, #campeones td, #campeones th{
-      border: solid rgb(237, 100, 237) 3px;
-      border-collapse: collapse;
-    }
-    #campeones img{
-      width: 200px;
-    }
-    
-          
-  
