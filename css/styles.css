@@ -89,12 +89,12 @@ section div{
 #eeuu{
   background-image: url(../img/banderaeeuu.png);
   background-size: cover;
+  background-repeat: no-repeat;
 }
 #mx{
-  background-image: url(../img/banderamex.png);
+  background-image: url(../img/banderamx.png);
   background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+  background-position:center ;
 }
 #can{
   background-image: url(../img/banderacan.svg);
