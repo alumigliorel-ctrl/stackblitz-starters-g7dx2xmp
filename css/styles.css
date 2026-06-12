@@ -173,7 +173,7 @@ background-color: antiquewhite;
 /*estadios*/
 
 #estadosunidos, #estadosunidos tr, #estadosunidos td { 
-  border: 3px solid #772c2c;
+  border: 3px solid rgb(207, 60, 190), 44, 100;
   border-collapse: collapse;
 }
 
@@ -184,7 +184,7 @@ background-color: antiquewhite;
 
 #canada, #canada tr, #canada td {
 
-  border: 3px solid #772c2c;
+  border: 3px solid #d73bb2;
   border-collapse: collapse;
 }
 
@@ -194,8 +194,8 @@ background-color: antiquewhite;
 
 
 #mexico, #mexico tr, #mexico td {
-
-  border: 3px solid #772c2c;
+  
+  border: solid 3px rgb(197, 47, 169);
   border-collapse: collapse;
 }
 
