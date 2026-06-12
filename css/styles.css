@@ -86,17 +86,17 @@ section div{
 }
 
 #eeuu{
-  background-image: url(../img/banderaeeuu\ \(3\).png);
+  background-image: url(../img/banderaeeuu.png);
   background-size: cover;
 }
 #mx{
-  background-image: url(../img/banderamex\ \(3\).png);
+  background-image: url(../img/banderamex.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 #can{
-  background-image: url(../img/banderacan\ \(3\).svg);
+  background-image: url(../img/banderacan.svg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
