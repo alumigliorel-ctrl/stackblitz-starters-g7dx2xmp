@@ -83,6 +83,7 @@ section div{
 #intro{
   background-image: url(https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg);
   box-shadow: 5px 3px grey; 
+  border-radius: 15px;
 }
 
 #eeuu{
