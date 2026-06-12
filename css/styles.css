@@ -173,7 +173,7 @@ background-color: antiquewhite;
 /*estadios*/
 
 #estadosunidos, #estadosunidos tr, #estadosunidos td { 
-  border: 3px solid rgb(207, 60, 190), 44, 100;
+  border:  solid 3px rgb(207, 60, 190), 44, 100;
   border-collapse: collapse;
 }
 
