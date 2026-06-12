@@ -171,15 +171,16 @@ background-color: antiquewhite;
 }
 
 /*estadios*/
+#estadosunidos, #estadosunidos tr, #estadosunidos td {
 
-#estadosunidos, #estadosunidos tr, #estadosunidos td { 
-  border:  solid 3px rgb(207, 60, 190), 44, 100;
+  border: 3px solid #d73bb2;
   border-collapse: collapse;
 }
 
-#estadosunidos img{
+#estadosunidos img {
   width:200px;
 }
+
 
 
 #canada, #canada tr, #canada td {
