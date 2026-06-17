@@ -162,7 +162,57 @@ h1 {
   font-weight: bold;
   font-size: 1.5rem;
 }
-  .multimedia {
+ /*Campeones*****/
+ /*******  /* contenedor principal: Divide el diseño en dos colmnas (continente y paises)*/
+.campeones{
+display: grid;
+grid-area: 1fr 3fr; /* 25% para continente, 75% para paises*/
+border:2px #000;
+width: 100%;
+}
+/*Columna izquierda: Continente ocupara todo el alto disponible automaticamente*/
+ .continente{
+border-right:2px solid #000;
+padding: 15px 10px;
+font-weight: bold;
+font-size: 14px;
+ }
+ /*Columna derecha:Se convierte en otro grid para organizar el contenido interno*/
+ .paises{
+  display: grid;
+  grid-template-columns: 1fr 1fr;/* Divididoen 2 columnas para las fotos*/
+ }
+ /*El titulo del pais ocupa las dos columnas*/
+ .pais{
+  grid-column: span 2;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 13px;
+  border-bottom: 2px solid #000;
+ }
+ /*Las fotos se acomodan una al lado de la otra automaticamente*/
+ .fotos{
+  min-width: 120px;/*Espacio para la imagen*/
+  padding: 35px 10px 10px 10px;
+  font-size: 11px;
+  border-bottom: 2px solid #000;
+ }
+ /*borde vertical divisor solo en la primera foto*/
+ .foto:nth-of-type(odd){
+  border-right: 2px solid #000;
+ }
+ /*La reseña se salta al fondo ocupando las dos columnas*/
+ .resenia{
+  grid-column: span 2;
+  padding: 10px;
+  min-height: 80px;
+  font-size: 11px;
+ }
+
+
+
+
+.multimedia {
 width: 800;
 background-color: antiquewhite;
 
