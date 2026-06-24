@@ -208,12 +208,19 @@ font-size: 14px;
   min-height: 80px;
   font-size: 11px;
  }
+ /*Datos de campeones*/
+.paises .foto img{
+  width: 100%;
+}
+.resenia p{
+  font-size: 16px;
+}
 
 
 
 
 .multimedia {
-width: 800px;
+width: 800;
 background-color: antiquewhite;
 
 }
