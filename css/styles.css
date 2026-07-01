@@ -202,7 +202,7 @@ font-size: 14px;
   border-right: 2px solid #000;
  }
  /*La reseña se salta al fondo ocupando las dos columnas*/
- .resenia p{
+ .resenia{
   grid-column: span 2;
   padding: 10px;
   min-height: 80px;
@@ -210,7 +210,7 @@ font-size: 14px;
  }
  /*Datos de campeones*/
 .paises .foto img{
-  width: 350px;
+  width: 235px;
 }
 .resenia p{
   font-size: 16px;
