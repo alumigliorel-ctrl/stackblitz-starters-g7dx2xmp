@@ -38,7 +38,54 @@
   <a href="entradas.html"class="activo">entradas</a> 
 
 </nav>
-<main></main>
+<main>
+<h2>Encuesta</h2>
+<p>Ingrese sus datos para realizar la reserva de la entrada</p>
+<section>
+<div id="formulario">
+<h2>Tus datos</h2>
+<form action="#">
+  <label for="fornombre">Nombre</label>
+  <input type="text" name="formnombre" id="formnombre" maxlength="30" minlength="5" required placeholder="ingrese su nombre">
+  
+  <label for="formapellido">Apellido</label>
+  <input type="text" name="formapellido" id="apellido" maxlength="30" minlength="5" readonly placeholder="Ingrese su apellido">
+
+  <input id="formedad" required type="number" placeholder="ingrese su edad">
+  <input id="formclave" required type="password" placeholder="ingrese su contraseña">
+  <input type="email" placeholder="correo@dom.com">
+
+  <input type="radio" id="formf" name="formsexo" value="femenino">
+  <label for="fem">Femenino</label>
+  <input type="radio" id="formm" name="formsexo" value="Masculino">
+  <label for="mas">Masculino</label>
+  ><input type="radio" id="formn" name="formsexo" value="Nodecirlo">
+  ><label for="noinf">No informo</label><br> <br>
+
+  <label for="ubicacion">Seleccione una ubicacion</label><br>
+
+  <select name="ubicacion" id="formubi">
+  <option value="plateaa">Platea alta</option>
+  <option value="plateam">Platea media</option>
+  <option value="plateab">Platea baja</option>
+  <option value="popular">popular</option>
+  <option value="palco">Palco</option>
+  </select>
+
+  <input type="submit">
+  
+
+  
+
+
+</form>
+
+
+
+
+</div>
+</section>
+</main>
 <footer>
   <div id="colegio"> 
     <h3>colegio:</h3>
